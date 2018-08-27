@@ -4,11 +4,13 @@
   "description": "Shoutout to /u/rbart65 on reddit and rbarton65 on github for creating the original version of the chatbot and the ESPN FF API",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dtcarls/ff_bot.git"
+    "url": "git+https://github.com/nickmiko/ff_bot.git"
   },
   "author": "",
   "license": "ISC",
@@ -18,6 +20,10 @@
   "homepage": "https://github.com/dtcarls/ff_bot#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+     "request": "^2.72.0"
+  },
+  "engines": {
+    "node": "~4.1.2"
   }
 }
