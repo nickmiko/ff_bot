@@ -13,11 +13,11 @@
   "env": {
     "BOT_ID": {
       "description": "GroupMe Bot ID",
-      "value": "1"
+      "value": "EAARPaW6TTIIBALugxvFFSKDFXFocOvjoB8RwhtpZAdpnMMkkZAyPcS0KTobbRiQlIftZCG9WLVg6NUiz8aBRTyQ0QCr2CwEdWh82tLRUG7sehbjsZBlbmzoQyK0MTDnXo5MKZCMl8jib3yH5JPt9KmKxoKzyHZAjwbaZBKbsAlAPQZDZD"
     },
     "LEAGUE_ID": {
       "description": "ESPN League ID",
-      "value": "1"
+      "value": "169320"
     },
     "LEAGUE_YEAR": {
       "description": "ESPN League Year",
